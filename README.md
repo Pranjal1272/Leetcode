@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pranjal1272/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Pranjal1272/leetcode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/Pranjal1272/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal1272/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Pranjal1272/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pranjal1272/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Pranjal1272/leetcode/tree/master/0189-rotate-array) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal1272/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Pranjal1272/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pranjal1272/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Pranjal1272/leetcode/tree/master/0189-rotate-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pranjal1272/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
