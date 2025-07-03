@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Pranjal1272/leetcode/tree/master/0414-third-maximum-number) |
 | [0966-binary-subarrays-with-sum](https://github.com/Pranjal1272/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pranjal1272/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pranjal1272/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pranjal1272/leetcode/tree/master/0088-merge-sorted-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pranjal1272/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Pranjal1272/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pranjal1272/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sliding Window
 |  |
 | ------- |
