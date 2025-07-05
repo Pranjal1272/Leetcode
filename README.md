@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Pranjal1272/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Pranjal1272/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Pranjal1272/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Pranjal1272/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pranjal1272/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pranjal1272/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranjal1272/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Pranjal1272/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal1272/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Pranjal1272/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Pranjal1272/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Pranjal1272/leetcode/tree/master/0189-rotate-array) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal1272/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Pranjal1272/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Pranjal1272/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pranjal1272/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranjal1272/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pranjal1272/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Pranjal1272/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Pranjal1272/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Pranjal1272/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pranjal1272/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sliding Window
@@ -82,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Pranjal1272/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Pranjal1272/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
