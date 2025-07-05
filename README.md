@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pranjal1272/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Pranjal1272/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Pranjal1272/leetcode/tree/master/0189-rotate-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pranjal1272/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
@@ -89,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Pranjal1272/leetcode/tree/master/0069-sqrtx) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranjal1272/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
