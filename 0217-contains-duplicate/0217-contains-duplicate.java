@@ -1,17 +1,15 @@
 import java.util.*;
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Map<Integer, Integer> countMap = new HashMap<>();
+        Map<Integer,Integer> freq = new HashMap<>();
 
-for (int num : nums) {
-    countMap.put(num, countMap.getOrDefault(num, 0) + 1);
-}
-
-// To find duplicates:
-for (int count : countMap.values()) {
-    if (count > 1) return true;
-}
-return false;
-
+        for(int num:nums){
+            if(freq.containsKey(num)){
+                return true;
+            }
+            freq.put(num,1);
+        }
+        return false;
+        
     }
 }
