@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Pranjal1272/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Pranjal1272/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Pranjal1272/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1319-unique-number-of-occurrences](https://github.com/Pranjal1272/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pranjal1272/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranjal1272/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/Pranjal1272/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pranjal1272/leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranjal1272/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Pranjal1272/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1319-unique-number-of-occurrences](https://github.com/Pranjal1272/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pranjal1272/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranjal1272/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/Pranjal1272/leetcode/tree/master/1848-sum-of-unique-elements) |
