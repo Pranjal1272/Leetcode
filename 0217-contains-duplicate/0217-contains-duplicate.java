@@ -1,13 +1,15 @@
+import java.util.*;
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Set<Integer> seen = new HashSet();
-        for(int num: nums){
-            if(seen.contains(num)){
+        Map<Integer,Integer> freq = new HashMap<>();
+
+        for(int num:nums){
+            if(freq.containsKey(num)){
                 return true;
             }
-            seen.add(num);
+            freq.put(num,1);
         }
         return false;
-
+        
     }
 }
