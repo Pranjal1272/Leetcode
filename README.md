@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Pranjal1272/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pranjal1272/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranjal1272/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1848-sum-of-unique-elements](https://github.com/Pranjal1272/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pranjal1272/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Pranjal1272/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranjal1272/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Pranjal1272/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pranjal1272/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranjal1272/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1848-sum-of-unique-elements](https://github.com/Pranjal1272/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Pranjal1272/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pranjal1272/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Pranjal1272/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pranjal1272/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1848-sum-of-unique-elements](https://github.com/Pranjal1272/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Pranjal1272/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
