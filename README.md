@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranjal1272/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Pranjal1272/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Pranjal1272/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Pranjal1272/leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Pranjal1272/leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranjal1272/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal1272/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Pranjal1272/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Pranjal1272/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Pranjal1272/leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Pranjal1272/leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal1272/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Pranjal1272/leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Pranjal1272/leetcode/tree/master/0217-contains-duplicate) |
 | [0966-binary-subarrays-with-sum](https://github.com/Pranjal1272/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pranjal1272/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranjal1272/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
