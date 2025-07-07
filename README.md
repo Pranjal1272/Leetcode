@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranjal1272/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Pranjal1272/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Pranjal1272/leetcode/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/Pranjal1272/leetcode/tree/master/0567-permutation-in-string) |
 | [0941-sort-array-by-parity](https://github.com/Pranjal1272/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Pranjal1272/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranjal1272/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pranjal1272/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pranjal1272/leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranjal1272/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Pranjal1272/leetcode/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/Pranjal1272/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Pranjal1272/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Pranjal1272/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Pranjal1272/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranjal1272/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Pranjal1272/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Pranjal1272/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Pranjal1272/leetcode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Pranjal1272/leetcode/tree/master/0567-permutation-in-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Pranjal1272/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranjal1272/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2502-sort-the-people](https://github.com/Pranjal1272/leetcode/tree/master/2502-sort-the-people) |
