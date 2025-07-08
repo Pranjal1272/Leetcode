@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Pranjal1272/leetcode/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pranjal1272/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Pranjal1272/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3519-find-the-number-of-winning-players](https://github.com/Pranjal1272/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Pranjal1272/leetcode/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Pranjal1272/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Pranjal1272/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3519-find-the-number-of-winning-players](https://github.com/Pranjal1272/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Pranjal1272/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Pranjal1272/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranjal1272/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3519-find-the-number-of-winning-players](https://github.com/Pranjal1272/leetcode/tree/master/3519-find-the-number-of-winning-players) |
 ## Binary Search
 |  |
 | ------- |
